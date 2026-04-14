@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image:url(background.jpg);
+    background-image:url(../photos/background.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
